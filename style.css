@@ -21,6 +21,7 @@ header {
     text-decoration: none;
     color: #e5e7eb;
     font-size: 18px;
+    margin: 0;
 }
 
 li {
@@ -31,6 +32,7 @@ li {
     font-size: 48px;
     font-style: extra bold;
     color: #f9faf8;
+    margin: 0;
 }
 
 .navbar {
@@ -50,13 +52,13 @@ li {
     display: flex;
     flex: 1;
     align-items: center;
+    margin: 30px 0;
 }
 
 .head-img {
     background: gray;
     color: white;
-    padding: 50px 130px;
-    margin: 20px 10px;
-    flex: stretch;
+    padding: 60px 150px;
+    margin: 20px 20px;
 }
 
