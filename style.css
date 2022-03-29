@@ -69,6 +69,20 @@ li {
     border: 1px #3882f6;
     border-radius: 5px;
     font-weight: 600;
+}
 
+/* END OF HEADER */
+
+/* SECTION 1 */
+
+.four-options {
+    display: flex;
+    justify-content: center;
+}
+
+.options {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
 }
 
