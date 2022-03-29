@@ -109,3 +109,22 @@ h2 {
     border-radius: 10px;
 }
 
+/* END OF SECTON 1 */
+
+/* QUOTE SECTION */
+
+.quote-section {
+    background-color: #e5e7eb;
+    padding: 60px 150px;
+}
+
+.quote {
+    font-style: italic;
+    font-size: 36px;
+    color: #1f2937;
+
+}
+
+
+
+
