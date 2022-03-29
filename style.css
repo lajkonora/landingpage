@@ -3,11 +3,16 @@ body {
     font-family: 'Roboto', sans-serif;
 }
 
+header {
+    background-color: #1f2937;
+}
+
 .logo {
     font-size: 24px;
     color: #f9faf8;
 }
 
-header {
-    background-color: #1f2937;
+.link {
+    text-decoration: none;
+    color: #f9faf8;
 }
