@@ -16,12 +16,19 @@ header {
     text-decoration: none;
     color: #e5e7eb;
     font-size: 18px;
+}
 
+li {
+    list-style: none;
 }
 
 .header {
     font-size: 48px;
     font-style: extra bold;
     color: #f9faf8;
+}
+
+navbar {
+    display: flex;
 }
 
