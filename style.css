@@ -153,6 +153,17 @@ h2 {
     padding: 15px 50px;
 }
 
+.action-header {
+    color:#f9faf8;
+    font-weight: bold;
+}
+
+.action {
+    color:#f9faf8;
+    text-align: left;
+    margin-top: 0;
+}
+
 .cta-right {
     margin-left: auto;
 }
