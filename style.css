@@ -109,6 +109,10 @@ h2 {
     border-radius: 10px;
 }
 
+.caption {
+    text-align: center;
+}
+
 /* END OF SECTON 1 */
 
 /* QUOTE SECTION */
@@ -120,9 +124,16 @@ h2 {
 
 .quote {
     font-style: italic;
+    font-weight: 200;
     font-size: 36px;
     color: #1f2937;
+}
 
+.quote-author {
+    font-style: italic;
+    font-weight: bold;
+    font-size: 18px;
+    text-align: right;
 }
 
 
