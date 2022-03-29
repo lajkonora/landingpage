@@ -119,7 +119,7 @@ h2 {
 
 .quote-section {
     background-color: #e5e7eb;
-    padding: 60px 150px;
+    padding: 60px 200px;
 }
 
 .quote {
@@ -143,6 +143,21 @@ h2 {
 .cta {
     padding: 60px 150px;
 }
+
+.cta-container {
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    background-color: #3882f6;
+    border-radius: 10px;
+    padding: 15px 50px;
+}
+
+.cta-right {
+    margin-left: auto;
+}
+
+
 
 
 
