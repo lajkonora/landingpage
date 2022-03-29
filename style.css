@@ -49,5 +49,14 @@ li {
 .header-container {
     display: flex;
     flex: 1;
+    align-items: center;
+}
+
+.head-img {
+    background: gray;
+    color: white;
+    padding: 50px 130px;
+    margin: 20px 10px;
+    flex: stretch;
 }
 
