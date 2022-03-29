@@ -12,7 +12,7 @@ header {
     color: #f9faf8;
 }
 
-.link {
+.link, .subtext {
     text-decoration: none;
     color: #e5e7eb;
     font-size: 18px;
@@ -24,3 +24,4 @@ header {
     font-style: extra bold;
     color: #f9faf8;
 }
+
